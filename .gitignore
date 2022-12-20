@@ -1,0 +1,13 @@
+# Ignore directories with data used in training
+dataset/generated_dataset/
+dataset/images/
+dataset/labels/
+
+# Ignore data used when trying to create objects without background
+candies_images/no_bg/
+
+# Ignore jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore idea
+.idea/

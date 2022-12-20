@@ -1,0 +1,4 @@
+# Pycharm related
+.idea
+data
+__pycache__
